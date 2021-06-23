@@ -1,0 +1,12 @@
+[
+    {
+      "id_product": 323,
+      "product_name": "Клавиатура",
+      "price": 600
+    },
+    {
+      "id_product": 756,
+      "product_name": "Материнская плата",
+      "price": 21000
+    }
+  ]
